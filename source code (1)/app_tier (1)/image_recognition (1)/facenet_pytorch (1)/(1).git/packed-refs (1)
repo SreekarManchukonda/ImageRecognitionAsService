@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+04ba51bed1867adef9cafc0a1cddbf4706ed23c7 refs/remotes/origin/cld_branch
+2c703c6866667d0291688f6e0232b72a7902ed9d refs/remotes/origin/dev
+6d747614f03c38d7afea89006c4a5b8af38b2348 refs/remotes/origin/feature/add_vggface2_labels
+555aa4bec20ca3e7c2ead14e7e39d5bbce203e4b refs/remotes/origin/master
+00a3965e04fa8e3fcc2932bef6cf9c46dc52095f refs/remotes/origin/refactor_detect_face
+fb8e0b28ab7b7325aba5f78abe7b0935f2ae9f0c refs/tags/v0.5.0
+ac8ff64fe673141e88176a1e416c69bf80fba09a refs/tags/v1.0.1
+5dcce36961f185ed358816adfaccb6eab57a8ea3 refs/tags/v2.2.9
+38717331d19b2fa51a1c3111c66e9b7067f2dcf8 refs/tags/v2.3.0
+3245f754542639398af31ddf5a032453c0bdc06a refs/tags/v2.3.1
+2763e34b556d071a072e568892d2bdfd389c37b0 refs/tags/v2.4.1
